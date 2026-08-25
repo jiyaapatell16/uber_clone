@@ -1,0 +1,9 @@
+{
+  "city": "Vadodara",
+  "currency": "INR",
+  "rideOptions": [
+    {"name":"Uber Go","description":"Affordable everyday rides","capacity":4},
+    {"name":"Uber Premier","description":"Comfortable rides with top-rated drivers","capacity":4},
+    {"name":"Uber XL","description":"Extra space for groups","capacity":6}
+  ]
+}
