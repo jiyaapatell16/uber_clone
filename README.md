@@ -1,4 +1,4 @@
-# Uber Clone
+# Uber Clone as a Frontend project
 
 A frontend learning project inspired by Uber's ride-booking experience, built with HTML and CSS with lightweight JavaScript interactions.
 
